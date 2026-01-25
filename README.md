@@ -1,18 +1,18 @@
-🏠 House Price Prediction – Supervised Learning
+🏠 Supervised Machine Learning Projects
 Description
 
-This repository contains a Supervised Machine Learning project to predict house prices using historical residential property data. A Linear Regression model is built to estimate house prices based on features like lot size, building type, condition, construction year, and basement area.
+This repository contains Supervised Machine Learning projects built using Python and scikit-learn. It demonstrates how to solve predictive tasks (regression and classification) using real-world datasets.
 
-The workflow includes data preprocessing, feature encoding, model training, and evaluation. The project demonstrates the end-to-end process of building a regression model in Python using pandas and scikit-learn.
+The workflow includes data preprocessing, feature handling, model training with sklearn algorithms, and evaluation using standard metrics. Projects cover numeric, ordinal, and categorical features, including proper handling of missing values and one-hot encoding where necessary.
 
 Key Points
 
-Problem: Predict SalePrice of houses automatically.
+Problem: Automate predictions using historical data.
 
-Data: Residential properties with physical, location, and condition features.
+Data: Real-world datasets with diverse feature types.
 
-Features Handled: Numeric, ordinal, and categorical variables (one-hot encoded).
+Models: Linear Regression, Logistic Regression, and other supervised ML models from scikit-learn.
 
-Model: Linear Regression
+Evaluation: Standard metrics such as MAE, MSE, R² Score, Accuracy, Precision, Recall, etc.
 
-Evaluation: MAE, MSE, R² Score
+Tools: Python, Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn.
