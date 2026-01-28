@@ -1,10 +1,10 @@
-Supervised Machine Learning
+# Supervised Machine Learning
 
 This repository contains Supervised Machine Learning projects. It demonstrates how to solve predictive tasks (regression and classification) using real-world datasets taken from kaggle and other online sources.
 
 The workflow includes data preprocessing -> feature engineering -> model training with sklearn algorithms -> evaluation using standard metrics. 
 
-Key Points:
+# Key Points:
 
 Problem: Train the model on learning data and find predictions for testing data.
 
